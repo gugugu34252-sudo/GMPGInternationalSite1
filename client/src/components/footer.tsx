@@ -8,7 +8,7 @@ export default function Footer() {
               GMPG International
             </h3>
             <p className="text-background/80 leading-relaxed" data-testid="footer-description">
-              Your trusted partner for GMP-compliant medical cannabis export from Sudan to international markets.
+              Your trusted partner for GMP-compliant medical cannabis export with proper medical grade certification.
             </p>
           </div>
           <div>

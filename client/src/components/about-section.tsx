@@ -20,10 +20,10 @@ export default function AboutSection() {
           </div>
           <div className="space-y-6">
             <p className="text-lg text-muted-foreground leading-relaxed" data-testid="about-paragraph-1">
-              GMPG International specializes in the export of GMP-compliant medical-grade cannabis from Sudan to international markets, with established channels to Malta and Canada. Our commitment to quality, compliance, and reliability has positioned us as a trusted partner in the global medical cannabis industry.
+              GMPG International specializes in the export of GMP-compliant medical-grade cannabis from Sudan to international markets. Our commitment to quality, compliance, and reliability has positioned us as a trusted partner in the global medical cannabis industry.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed" data-testid="about-paragraph-2">
-              We maintain the highest standards of Good Manufacturing Practice (GMP) throughout our entire supply chain, ensuring that our products meet the stringent regulatory requirements of international markets while delivering consistent, pharmaceutical-grade medical cannabis.
+              We maintain the highest standards of Good Manufacturing Practice (GMP) throughout our entire supply chain, ensuring that our products meet the stringent regulatory requirements of international markets while delivering consistent, pharmaceutical-grade medical cannabis with proper medical grade labeling.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed" data-testid="about-paragraph-3">
               Our experienced team understands the complex regulatory landscape of international cannabis trade and works closely with clients to ensure seamless, compliant transactions from source to destination.
