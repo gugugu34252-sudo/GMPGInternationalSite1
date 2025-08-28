@@ -8,7 +8,7 @@ export default function Footer() {
               GMPG International
             </h3>
             <p className="text-background/80 leading-relaxed" data-testid="footer-description">
-              Your trusted partner for GMP-compliant medical cannabis export with proper medical grade certification.
+              Your trusted partner for GMP-compliant medical grade products and precursors export with proper certification.
             </p>
           </div>
           <div>

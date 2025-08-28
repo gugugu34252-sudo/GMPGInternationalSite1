@@ -6,10 +6,10 @@ export default function HeroSection() {
           GMPG International
         </h1>
         <p className="text-xl sm:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto" data-testid="hero-tagline">
-          Exporting Quality Medical Cannabis Globally
+          Exporting Quality Medical Grade Products Globally
         </p>
         <p className="text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed" data-testid="hero-description">
-          Your trusted partner for GMP-compliant medical cannabis export to international markets.
+          Your trusted partner for GMP-compliant medical grade products and precursors export to international markets.
         </p>
         <div className="mt-10">
           <a 

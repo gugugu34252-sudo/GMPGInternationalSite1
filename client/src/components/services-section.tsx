@@ -4,8 +4,8 @@ export default function ServicesSection() {
   const services = [
     {
       icon: Package,
-      title: "Medical Cannabis Export",
-      description: "Comprehensive export services for medical-grade cannabis products, ensuring full compliance with international regulations and maintaining product integrity throughout the supply chain."
+      title: "Medical Grade Products Export",
+      description: "Comprehensive export services for medical-grade products and precursors, ensuring full compliance with international regulations and maintaining product integrity throughout the supply chain."
     },
     {
       icon: Shield,
@@ -15,7 +15,7 @@ export default function ServicesSection() {
     {
       icon: Globe,
       title: "International Trade Consulting",
-      description: "Expert guidance on regulatory compliance, documentation, licensing requirements, and market entry strategies for international medical cannabis trade operations."
+      description: "Expert guidance on regulatory compliance, documentation, licensing requirements, and market entry strategies for international pharmaceutical trade operations."
     }
   ];
 
@@ -28,7 +28,7 @@ export default function ServicesSection() {
           </h2>
           <div className="w-24 h-1 bg-primary mx-auto mb-6"></div>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto" data-testid="services-description">
-            Comprehensive solutions for medical cannabis export and international trade compliance
+            Comprehensive solutions for medical grade products export and international trade compliance
           </p>
         </div>
         
