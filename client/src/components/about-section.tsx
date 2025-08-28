@@ -12,15 +12,15 @@ export default function AboutSection() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <img 
-              src="https://images.unsplash.com/photo-1559757148-5c350d0d3c56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&h=600" 
-              alt="Professional medical cannabis facility" 
+              src="https://images.unsplash.com/photo-1536431311719-398b6704d4cc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600" 
+              alt="Medical cannabis plants in controlled environment" 
               className="w-full h-auto shadow-lg rounded"
               data-testid="about-image"
             />
           </div>
           <div className="space-y-6">
             <p className="text-lg text-muted-foreground leading-relaxed" data-testid="about-paragraph-1">
-              GMPG International specializes in the export of GMP-compliant medical-grade cannabis from Sudan to international markets. Our commitment to quality, compliance, and reliability has positioned us as a trusted partner in the global medical cannabis industry.
+              GMPG International specializes in the export of GMP-compliant medical-grade cannabis to international markets. Our commitment to quality, compliance, and reliability has positioned us as a trusted partner in the global medical cannabis industry.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed" data-testid="about-paragraph-2">
               We maintain the highest standards of Good Manufacturing Practice (GMP) throughout our entire supply chain, ensuring that our products meet the stringent regulatory requirements of international markets while delivering consistent, pharmaceutical-grade medical cannabis with proper medical grade labeling.

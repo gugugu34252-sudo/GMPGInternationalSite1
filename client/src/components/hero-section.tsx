@@ -9,7 +9,7 @@ export default function HeroSection() {
           Exporting Quality Medical Cannabis Globally
         </p>
         <p className="text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed" data-testid="hero-description">
-          Your trusted partner for GMP-compliant medical cannabis export from Sudan to international markets.
+          Your trusted partner for GMP-compliant medical cannabis export to international markets.
         </p>
         <div className="mt-10">
           <a 

@@ -164,7 +164,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <h4 className="font-medium text-foreground">Address</h4>
-                  <p className="text-muted-foreground">Khartoum, Sudan</p>
+                  <p className="text-muted-foreground">International Operations</p>
                 </div>
               </div>
               

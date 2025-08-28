@@ -51,7 +51,7 @@ export default function Footer() {
             </h4>
             <div className="space-y-2 text-background/80">
               <p data-testid="footer-email">info@GMPGinternational.com</p>
-              <p data-testid="footer-address">Khartoum, Sudan</p>
+              <p data-testid="footer-address">International Operations</p>
             </div>
           </div>
         </div>
