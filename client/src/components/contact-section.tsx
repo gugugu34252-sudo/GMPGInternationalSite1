@@ -57,7 +57,7 @@ export default function ContactSection() {
           </h2>
           <div className="w-24 h-1 bg-primary mx-auto mb-6"></div>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto" data-testid="contact-description">
-            Get in touch with our team to discuss your medical grade products export requirements
+            Get in touch with our professional team
           </p>
         </div>
         
@@ -143,7 +143,7 @@ export default function ContactSection() {
                 Get in touch
               </h3>
               <p className="text-muted-foreground leading-relaxed mb-8" data-testid="contact-info-description">
-                We're here to help with your medical grade products export needs. Contact us to discuss compliance requirements, supply chain solutions, or partnership opportunities.
+                Professional consultation for regulatory compliance and international trade solutions.
               </p>
             </div>
             

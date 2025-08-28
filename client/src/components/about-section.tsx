@@ -12,21 +12,18 @@ export default function AboutSection() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <img 
-              src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600" 
-              alt="Professional pharmaceutical facility" 
+              src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600" 
+              alt="Professional laboratory equipment" 
               className="w-full h-auto shadow-lg rounded"
               data-testid="about-image"
             />
           </div>
           <div className="space-y-6">
             <p className="text-lg text-muted-foreground leading-relaxed" data-testid="about-paragraph-1">
-              GMPG International specializes in the export of GMP-compliant medical grade products and precursors to international markets. Our commitment to quality, compliance, and reliability has positioned us as a trusted partner in the global pharmaceutical industry.
+              GMPG International specializes in GMP-compliant medical grade products and precursors for international markets.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed" data-testid="about-paragraph-2">
-              We maintain the highest standards of Good Manufacturing Practice (GMP) throughout our entire supply chain, ensuring that our products meet the stringent regulatory requirements of international markets while delivering consistent, pharmaceutical-grade medical products with proper medical grade labeling.
-            </p>
-            <p className="text-lg text-muted-foreground leading-relaxed" data-testid="about-paragraph-3">
-              Our experienced team understands the complex regulatory landscape of international pharmaceutical trade and works closely with clients to ensure seamless, compliant transactions from source to destination.
+              We maintain the highest standards of Good Manufacturing Practice throughout our supply chain, ensuring regulatory compliance and consistent quality.
             </p>
             <div className="grid sm:grid-cols-3 gap-4 pt-6">
               <div className="text-center" data-testid="stat-gmp">

@@ -9,7 +9,7 @@ export default function HeroSection() {
           Exporting Quality Medical Grade Products Globally
         </p>
         <p className="text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed" data-testid="hero-description">
-          Your trusted partner for GMP-compliant medical grade products and precursors export to international markets.
+          Professional GMP-compliant solutions for international markets.
         </p>
         <div className="mt-10">
           <a 
