@@ -36,13 +36,6 @@ export default function Header() {
             >
               Services
             </a>
-            <a 
-              href="#contact" 
-              className="text-muted-foreground hover:text-primary transition-colors"
-              data-testid="nav-contact"
-            >
-              Contact
-            </a>
           </nav>
           <button 
             className="md:hidden text-muted-foreground hover:text-primary"
@@ -75,14 +68,6 @@ export default function Header() {
               data-testid="mobile-nav-services"
             >
               Services
-            </a>
-            <a 
-              href="#contact" 
-              className="block px-3 py-2 text-muted-foreground hover:text-primary"
-              onClick={closeMobileMenu}
-              data-testid="mobile-nav-contact"
-            >
-              Contact
             </a>
           </div>
         </div>

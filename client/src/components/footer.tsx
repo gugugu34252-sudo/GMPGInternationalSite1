@@ -34,15 +34,6 @@ export default function Footer() {
                   Services
                 </a>
               </li>
-              <li>
-                <a 
-                  href="#contact" 
-                  className="text-background/80 hover:text-background transition-colors"
-                  data-testid="footer-link-contact"
-                >
-                  Contact Us
-                </a>
-              </li>
             </ul>
           </div>
           <div>

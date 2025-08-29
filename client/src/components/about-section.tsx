@@ -12,8 +12,8 @@ export default function AboutSection() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <img 
-              src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600" 
-              alt="Professional laboratory equipment" 
+              src="/src/assets/lab-team.png" 
+              alt="GMPG International professional laboratory team" 
               className="w-full h-auto shadow-lg rounded"
               data-testid="about-image"
             />

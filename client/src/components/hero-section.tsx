@@ -13,11 +13,11 @@ export default function HeroSection() {
         </p>
         <div className="mt-10">
           <a 
-            href="#contact" 
+            href="mailto:info@gmpginternational.com" 
             className="inline-block bg-primary text-primary-foreground px-8 py-3 text-lg font-medium hover:bg-primary/90 transition-colors"
             data-testid="hero-cta-button"
           >
-            Get In Touch
+            Contact Us
           </a>
         </div>
       </div>
